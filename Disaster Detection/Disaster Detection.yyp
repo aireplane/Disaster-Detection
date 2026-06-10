@@ -23,6 +23,7 @@
   },
   "name":"Disaster Detection",
   "resources":[
+    {"id":{"name":"obj_Control","path":"objects/obj_Control/obj_Control.yy",},},
     {"id":{"name":"objCameraLButton","path":"objects/objCameraLButton/objCameraLButton.yy",},},
     {"id":{"name":"objCameraRButton","path":"objects/objCameraRButton/objCameraRButton.yy",},},
     {"id":{"name":"objCameraScreen","path":"objects/objCameraScreen/objCameraScreen.yy",},},
