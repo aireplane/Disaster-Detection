@@ -6,12 +6,12 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_65818C34","path":"rooms/roomMain/roomMain.yy",},
     {"name":"inst_CADE4FE","path":"rooms/roomMain/roomMain.yy",},
     {"name":"inst_5DD49AF6","path":"rooms/roomMain/roomMain.yy",},
     {"name":"inst_FFADE1A","path":"rooms/roomMain/roomMain.yy",},
     {"name":"inst_66DC278","path":"rooms/roomMain/roomMain.yy",},
     {"name":"inst_74EE8B9F","path":"rooms/roomMain/roomMain.yy",},
+    {"name":"inst_65818C34","path":"rooms/roomMain/roomMain.yy",},
   ],
   "isDnd":false,
   "layers":[

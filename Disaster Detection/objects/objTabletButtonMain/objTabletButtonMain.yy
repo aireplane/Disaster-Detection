@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprTabletButton",
-    "path":"sprites/sprTabletButton/sprTabletButton.yy",
+    "name":"sprTabletButtonMain",
+    "path":"sprites/sprTabletButtonMain/sprTabletButtonMain.yy",
   },
   "spriteMaskId":null,
   "visible":true,
