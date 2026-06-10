@@ -1,1 +1,0 @@
-currentCamera = 1

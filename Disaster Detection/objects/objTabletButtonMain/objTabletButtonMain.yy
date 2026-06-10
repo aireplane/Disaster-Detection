@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"objCameraLButton_1",
+  "%Name":"objTabletButtonMain",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"objCameraLButton_1",
+  "name":"objTabletButtonMain",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprCameraLButton_1",
-    "path":"sprites/sprCameraLButton_1/sprCameraLButton_1.yy",
+    "name":"sprTabletButton",
+    "path":"sprites/sprTabletButton/sprTabletButton.yy",
   },
   "spriteMaskId":null,
   "visible":true,
