@@ -2,8 +2,9 @@
 /// @DnDVersion : 1
 /// @DnDHash : 43E27D1B
 /// @DnDArgument : "objectid" "objTabletDown"
+/// @DnDArgument : "layer" ""Animations""
 /// @DnDSaveInfo : "objectid" "objTabletDown"
-instance_create_layer(0, 0, "Instances", objTabletDown);
+instance_create_layer(0, 0, "Animations", objTabletDown);
 
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1

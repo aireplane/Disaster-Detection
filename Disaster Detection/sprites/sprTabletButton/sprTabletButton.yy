@@ -19,6 +19,7 @@
   "height":64,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"9edce16a-92de-4876-acb7-28a4251b5b06","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"9edce16a-92de-4876-acb7-28a4251b5b06","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"fe234966-a998-4ed7-9146-612d503864e6","blendMode":0,"displayName":"default","isLocked":false,"name":"fe234966-a998-4ed7-9146-612d503864e6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"sprTabletButton",
